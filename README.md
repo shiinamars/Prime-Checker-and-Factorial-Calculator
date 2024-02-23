@@ -1,5 +1,6 @@
 # Prime Checker and Factorial Calculator
- Uses Sieve of Eratosthenes Algorithm and Memoization for optimized code
+ Uses Sieve of Eratosthenes Algorithm and Memoization for optimized code :)
+
 <img width="597" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/bebc8dd4-4675-4926-b128-164065cb0b1b">
 <img width="600" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/f1f26526-55ec-4b86-ae70-418bbc15d89a">
 <img width="601" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/8c386bfe-6922-46d3-8305-ccb0e43aef17">
