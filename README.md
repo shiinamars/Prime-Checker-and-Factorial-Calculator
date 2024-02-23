@@ -8,6 +8,8 @@
 <img width="600" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/c6cffde4-910d-43be-8316-244106b9a487">
 <img width="599" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/21d355a9-29a4-4077-9db6-14c5fac95e57">
 <img width="599" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/4b780fa2-bb8d-4eeb-872b-da7826bf5856">
+<img width="601" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/00481d71-6959-467f-b4b0-b1b3895ecdd8">
+<img width="599" alt="image" src="https://github.com/shiinamars/Prime-Checker-and-Factorial-Calculator/assets/83209654/88e1e7ad-db81-4fc4-bf36-769582dbd6f0">
 
 
 The task is to write a program to:
